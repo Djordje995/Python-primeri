@@ -1,3 +1,3 @@
 # Python-primeri
-Primeri za vezbanje
-Primeri su uzeti iz knjige python opusteno
+
+Primeri su uzeti iz knjige PYTHON OPUSTENO.
